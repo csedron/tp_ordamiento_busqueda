@@ -35,5 +35,5 @@ Este proyecto nos permitió:
 
 ## 👥 Integrantes del equipo
 
-- Claudio Andres Sedron - DNI 24929288.
-- Leandro Nahuel Santagada - DNI 38258056.
+- Claudio Andres Sedron - DNI 24929288
+- Leandro Nahuel Santagada - DNI 38258056
